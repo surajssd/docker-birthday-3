@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
       - name: votingapp
-        image: votingapp
+        image: surajd/votingapp
         ports:
         - containerPort: 80

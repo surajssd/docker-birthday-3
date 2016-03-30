@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: worker
-        image: worker
+        image: surajd/worker

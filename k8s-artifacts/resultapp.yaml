@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
       - name: resultapp
-        image: resultapp
+        image: surajd/resultapp
         ports:
         - containerPort: 80
